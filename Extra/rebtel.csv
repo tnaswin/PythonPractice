@@ -1,0 +1,572 @@
+Country,Rate/min
+Afghanistan - Fixed,0.249
+Afghanistan - Mobile,0.269
+Albania - Fixed,0.156
+Albania - Landlines AMC,0.299
+Albania - Mobile,0.36
+Algeria - Landline,0.069
+Algeria - Other Mobile,0.86
+Algeria - Mobile Wataniya,0.86
+American Samoa - Mobile,0.105
+American Samoa - Fixed,0.114
+Andorra - Fixed,0.029
+Andorra - Mobile,0.279
+Angola - Fixed,0.159
+Angola - Mobile,0.212
+Anguilla - Fixed,0.219
+Anguilla - Mobile,0.229
+Antarctica - Fixed,1.45
+Antarctica - Mobile,1.45
+Antigua and Barbuda - Fixed,0.229
+Antigua and Barbuda - Mobile,0.289
+Argentina - Fixed,0.019
+Argentina - Mobile,0.199
+Armenia - Yerevan,0.174
+Armenia - Other Landlines,0.174
+Armenia - All Mobiles,0.215
+Aruba - Fixed,0.124
+Aruba - Mobile,0.17
+Australia - Fixed,0.02
+Australia - Mobile,0.16
+Australia - Norfolk Mobile and Landline,1.49
+Austria - Wien,0.02
+Austria - All other landline,0.03
+Austria - Mobile A1,0.17
+Austria - All other mobile,0.25
+Austria - 3 AT,0.35
+"Austria - Shared numbers,Freephone, Personal numbers, Special Services",0.4
+Azerbaijani Republic - Fixed,0.199
+Azerbaijani Republic - Mobile,0.299
+Bahamas - Fixed,0.119
+Bahamas - Mobile,0.219
+Bahrain - Fixed,0.125
+Bahrain - Mobile,0.125
+"Bangladesh - Chittagong, Sylhet, Dhaka ",0.036
+Bangladesh - All Mobiles,0.036
+Barbados - Fixed,0.209
+Barbados - Mobile,0.239
+Belarus - Fixed,0.399
+Belarus - Mobile,0.399
+Belgium - All Landlines,0.03
+Belgium - Proximus,0.173
+Belgium - All other mobile,0.24
+Belgium - Special service,0.4
+Belgium - Premium Numbers,0.4
+Belize - Fixed,0.229
+Belize - Mobile,0.229
+Benin - Fixed,0.45
+Benin - Mobile,0.45
+Bermuda - Fixed,0.075
+Bermuda - Mobile,0.075
+Bhutan - Fixed,0.16
+Bhutan - Mobile,0.16
+Bolivia - La Paz and Santa Cruz,0.109
+Bolivia - Other Landlines,0.149
+Bolivia - All Mobiles,0.199
+Bosnia and Herzegovina - Fixed,0.169
+Bosnia and Herzegovina - Mobile,0.35
+Botswana - Fixed,0.099
+Botswana - Mobile,0.215
+"Brazil - Sao Paulo, Rio de Janeiro",0.009
+Brazil - Other landline,0.0145
+Brazil - All mobile,0.099
+Brunei Darussalam - Fixed,0.054
+Brunei Darussalam - Mobile,0.054
+Bulgaria - All other landline,0.046
+Bulgaria - Sofia,0.0532
+Bulgaria - Mobifon,0.259
+Bulgaria - All other Mobile,0.39
+Burkina Faso - Fixed,0.35
+Burkina Faso - Mobile,0.35
+Burundi - Fixed,0.449
+Burundi - Mobile,0.5
+British Virgin Islands - All Landlines,0.2399
+British Virgin Islands - CCT,0.24
+British Virgin Islands - Other mobiles,0.29
+Cambodia - Fixed,0.059
+Cambodia - Mobile,0.059
+"Cameroon - Douala, Yaounde",0.199
+Cameroon - Other landline,0.199
+Cameroon - Spacemob,0.329
+Cameroon - Other mobile,0.329
+Cameroon - MTN Mobile,0.329
+Cameroon - Orange,0.33
+Cameroon - Spacemod Satelite,0.8
+Canada - Other landlines,0.015
+Canada - Other Mobiles,0.015
+Canada - Yukon & NW territories,0.15
+Cape Verde - Fixed,0.299
+Cape Verde - Mobile,0.419
+Caribbean Netherlands - Fixed,0.29
+Caribbean Netherlands - Mobile,0.29
+Cayman Islands - Fixed,0.119
+Cayman Islands - Mobile,0.185
+Central African Republic - Fixed,0.39
+Central African Republic - Mobile,0.469
+Chad - Mobile,0.499
+Chad - Fixed,0.57
+Chile - Landlines,0.022
+Chile - Mobile,0.199
+Chile - Landlines Rural,0.45
+China - Fixed,0.029
+China - Mobile,0.029
+China - Other Mobiles,0.029
+"Colombia - Barranquilla, Bogota, Cali, Medellin",0.029
+Colombia - Dialcode 57185,0.045
+Colombia - Other landline,0.094
+Colombia - Other mobile,0.095
+"Colombia - Comcel, Movistar",0.139
+Comoros - Fixed,0.479
+Comoros - Mobile,0.479
+Congo - Fixed,0.409
+Congo - Mobile,0.409
+Cook Islands - Fixed,0.67
+Cook Islands - Mobile,0.67
+Costa Rica - Fixed,0.061
+Costa Rica - Mobile,0.079
+Cote d'Ivoire - Fixed,0.27
+Cote d'Ivoire - Mobile,0.349
+Cote d'Ivoire - Orange,0.349
+Cote d'Ivoire - Other (ex: +22565),0.349
+Croatia - Fixed,0.101
+Croatia - Mobile,0.279
+Cuba - Fixed,0.749
+Cuba - Mobile,0.799
+Curaçao - Fixed,0.29
+Curaçao - Mobile,0.29
+Cyprus - Fixed,0.029
+Cyprus - Mobile,0.069
+Czech Republic - Fixed,0.039
+Czech Republic - Mobile,0.299
+Denmark - All Landlines,0.019
+"Denmark - TDC, Sonofon, Telia, Orange",0.219
+Denmark - Other Mobiles,0.269
+Djibouti - Fixed,0.359
+Djibouti - Mobile,0.359
+Dominica - Fixed,0.189
+Dominica - Mobile,0.219
+"Dominican Republic - Dialcodes starting with 180953, 180955-180959, 180973, 180968, 182959",0.049
+Dominican Republic - Other Fixed,0.079
+Dominican Republic - Mobile,0.099
+Democratic Republic of the Congo - Fixed,0.319
+Democratic Republic of the Congo - Mobile,0.375
+Ecuador - Fixed,0.11
+Ecuador - Mobile,0.169
+Egypt - Fixed,0.09
+Egypt - Mobile,0.12
+El Salvador - Fixed,0.26
+El Salvador - Mobile,0.26
+El Salvador - Premium numbers,0.26
+Equatorial Guinea - Fixed,0.299
+Equatorial Guinea - Mobile,0.45
+Eritrea - Fixed,0.279
+Eritrea - Mobile,0.279
+Estonia - Fixed,0.02
+Estonia - Mobile,0.32
+Ethiopia - Addis Ababa,0.279
+Ethiopia - Other landline,0.279
+Ethiopia - Other Mobile,0.279
+Ethiopia - Addis Ababa Mobile,0.279
+Falkland Islands - Fixed,0.79
+Falkland Islands - Mobile,0.79
+Faroe Islands - Fixed,0.189
+Faroe Islands - Mobile,0.189
+Fiji - Fixed,0.299
+Fiji - Mobile,0.299
+Finland - Mobiles,0.149
+Finland - Fixed,0.19
+Finland - Special service (ex: 3584571),0.45
+France - All other landlines,0.019
+France - Non-Geographic Interpersonal Numbers,0.049
+France - All Mobiles,0.171
+French Guiana - Fixed,0.179
+French Guiana - Mobile,0.37
+French Polynesia - Fixed,0.329
+French Polynesia - Mobile,0.329
+Gabonese Republic - Fixed,0.499
+Gabonese Republic - Mobile,0.499
+Gambia - Fixed,0.42
+Gambia - Mobile,0.558
+Georgia - Fixed,0.2125
+Georgia - Mobile,0.24
+Germany - Fixed,0.019
+Germany - Mobile,0.193
+Ghana - Landline,0.239
+Ghana - Other Mobile,0.239
+Ghana - MTN,0.239
+Ghana - Globacom,0.239
+Ghana - Vodafone,0.239
+Ghana - Airtel,0.239
+Ghana - Tigo,0.27
+Gibraltar - Fixed,0.049
+Gibraltar - Mobile,0.23
+Greece - Fixed,0.019
+Greece - Mobile,0.206
+Greenland - Fixed,0.569
+Greenland - Mobile,0.569
+Grenada - Fixed,0.209
+Grenada - Mobile,0.229
+Guadeloupe - Fixed,0.019
+Guadeloupe - Mobile,0.151
+Guam - Fixed,0.018
+Guam - Mobile,0.033
+Guatemala - Fixed,0.119
+Guatemala - Mobile,0.149
+Guatemala - Premium numbers,0.149
+Guinea - Fixed,0.499
+Guinea - Mobile,0.499
+Guinea-Bissau - Fixed,0.619
+Guinea-Bissau - Mobile,0.619
+Guyana - Fixed,0.279
+Guyana - Mobile,0.349
+Haiti - All Landlines,0.299
+Haiti - Other Mobiles,0.299
+Honduras - Fixed,0.235
+Honduras - Celtel/Tigo,0.273
+Honduras - Digicel Honduras,0.273
+Honduras - Hondutel,0.273
+Honduras - Sercom/Claro,0.273
+"Hong Kong, China - Fixed",0.018
+"Hong Kong, China - Mobile",0.018
+Hungary - Fixed,0.019
+Hungary - Mobile,0.209
+Iceland - Fixed,0.027
+Iceland - Mobile,0.21
+India - Fixed,0.0239
+India - Mobile,0.0239
+Indonesia - Jakarta Landlines,0.025
+Indonesia - Surabaya Landlines,0.037
+Indonesia - Other Landlines,0.066
+"Indonesia - Excel, Excelcomindo Mobiles",0.077
+Indonesia - Other Mobiles,0.083
+Iran - Fixed,0.17
+Iran - Mobile,0.17
+Iraq - Baghdad,0.118
+Iraq - Other Landlines,0.118
+Iraq - All Mobiles,0.219
+Ireland - All Landlines,0.019
+"Ireland - Eircell, O2, Vodafone",0.185
+Ireland - Other Mobiles,0.239
+Ireland - Premium Numbers,0.239
+Israel - Fixed,0.009
+Israel - Mobile,0.061
+Israel - Paltel/Paltel Mobile,0.259
+Italy - All Landlines,0.019
+Italy - Other Mobiles,0.195
+Italy - TIM,0.219
+Italy - 3,0.359
+Italy - Satellite,0.4
+Jamaica - Fixed,0.249
+Jamaica - Digicel,0.249
+Jamaica - Mobile,0.249
+Japan - Fixed,0.069
+Japan - Mobile,0.249
+Jordan - Fixed,0.16
+Jordan - Mobile,0.19
+Kazakhstan - South Capital area - Almaty,0.048
+Kazakhstan - Other Landlines,0.119
+Kazakhstan - Altel and J-Run,0.139
+Kazakhstan - Other Mobiles,0.189
+Kenya - Nairobi,0.159
+Kenya - Other landline,0.159
+Kenya - Orange,0.159
+Kenya - Mobile Safaricom,0.159
+Kenya - Airtel/Celtel,0.25
+Kiribati - Fixed,0.689
+Kiribati - Mobile,1.36
+Kuwait - Fixed,0.079
+Kuwait - Mobile,0.079
+Kyrgyzstan - Fixed,0.129
+Kyrgyzstan - Mobile,0.173
+Korea (Democratic People's Republic of) - Fixed,0.99
+Korea (Democratic People's Republic of) - Mobile,0.99
+Korea (Republic of) - Fixed,0.049
+Korea (Republic of) - Mobile,0.049
+Laos - Fixed,0.089
+Laos - Mobile,0.089
+Latvia - All Landlines,0.1429
+Latvia - Tele2,0.33
+Latvia - Other Mobiles,0.33
+Lebanon - Fixed,0.12
+Lebanon - Mobile,0.21
+Lesotho - Fixed,0.8
+Lesotho - Mobile,0.8
+Liberia - Other Mobiles,0.37
+Liberia - Fixed,0.3887
+Liberia - Lonestar/MTN Mobile,0.399
+Libya - Fixed,0.349
+Libya - Mobile,0.349
+Liechtenstein - All Landlines,0.08
+Liechtenstein - All Mobiles,0.399
+Lithuania - All Landlines,0.08
+Lithuania - Tele2,0.35
+Lithuania - Other Mobiles,0.35
+Lithuania - Personal Numbers,0.65
+"Lithuania - Shared numbers,Freephone, Personal numbers, Special Services",0.75
+Luxembourg - Fixed,0.027
+Luxembourg - Mobile,0.219
+"Macao, China - Fixed",0.059
+"Macao, China - Mobile",0.0961
+Macedonia - Fixed,0.319
+Macedonia - Mobile,0.319
+Madagascar - All Landlines,0.56
+Madagascar - Other Mobiles,0.699
+"Madagascar - Orange, Madacom",0.699
+Malawi - Fixed,0.249
+Malawi - Mobile,0.338
+Malaysia - Mobile,0.04
+Malaysia - Fixed,0.05
+Maldives - All Landlines,0.639
+Maldives - All Mobiles,0.9
+Maldives - Premium numbers,2
+Mali - Bamako district,0.359
+Mali - Malitel Mobiles,0.375
+Mali - Other Mobiles,0.375
+Mali - Other Landlines,0.4
+Malta - Fixed,0.095
+Malta - Mobile,0.21
+Marshall Islands - Fixed,0.299
+Marshall Islands - Mobile,0.299
+Martinique - Fixed,0.049
+Martinique - Mobile,0.279
+Mauritania - Fixed,0.499
+Mauritania - Mobile,0.499
+Mauritius - Fixed,0.14
+Mauritius - Mobile,0.14
+Mayotte - Fixed,0.319
+Mayotte - Mobile,0.329
+"Mexico - Landlines in Celaya, Léon, Mexico City, Monterrey, Puebla, Querétaro, Toluca, Aguascalientes, Cuernavaca, Durango, Irapuato, Lerma, Mazatlán, Mexicali, Nuevo Laredo, Reynosa, Saltillo, San Luis Potosí, Tepic, Texcoco, Tijuana, Tlaxcala, Torreón, Ciudad Juárez, Córdoba, Cuautla, Culiacán, Hermosillo, Lagos de Moreno, Mérida, Orizaba, Pachuca, Tampico, Tehuacán, Veracruz",0.019
+Mexico - Landlines in Guadalajara,0.019
+Mexico - Other landlines,0.059
+Mexico - Mobiles,0.099
+Micronesia - Mobile,0.5068
+Micronesia - Fixed,0.78
+Moldova - Mobile,0.199
+Moldova - Fixed,0.278
+Monaco - Fixed,0.059
+Monaco - Mobile,0.37
+Mongolia - Fixed,0.124
+Mongolia - Mobile,0.179
+Montenegro - Fixed,0.17
+Montenegro - Mobile,0.33
+Montserrat - Mobile,0.149
+Montserrat - Fixed,0.214
+Morocco - Other Landlines,0.219
+Morocco - Casablanca and Rabat,0.219
+Morocco - Mobile/Landline Wana,0.399
+Morocco - Other Mobile,0.499
+Mozambique - Fixed,0.199
+Mozambique - Mobile,0.24
+Myanmar - Fixed,0.399
+Myanmar - Mobile,0.399
+Namibia - Fixed,0.119
+Namibia - Mobile,0.359
+Nauru - Fixed,1.2
+Nauru - Mobile,1.2
+Nepal - Fixed,0.175
+Nepal - Mobile,0.175
+Netherlands - Fixed,0.045
+Netherlands - Mobile,0.23
+New Caledonia - Fixed,0.239
+New Caledonia - Mobile,0.239
+New Zealand - Fixed,0.019
+New Zealand - Mobile,0.279
+Nicaragua - Fixed,0.149
+Nicaragua - Other mobiles,0.2626
+Nicaragua - Movistar,0.289
+Nicaragua - Claro,0.289
+Nicaragua - Premium numbers,0.289
+Niger - Fixed,0.259
+Niger - Mobile,0.325
+Nigeria - Fixed,0.12
+Nigeria - Mobile,0.12
+Niue - Fixed,0.599
+Niue - Mobile,1.3572
+Norway - Fixed,0.019
+Norway - Mobile,0.19
+Oman - Fixed,0.179
+Oman - Mobile,0.249
+Pakistan - Telenor,0.018
+Pakistan - Fixed,0.129
+Pakistan - Mobile,0.129
+Palau - Fixed,0.309
+Palau - Mobile,0.309
+Palestine - Fixed,0.239
+Palestine - Mobile,0.259
+Panama - Fixed,0.045
+Panama - Mobile,0.13
+Papua New Guinea - Fixed,0.95
+Papua New Guinea - Mobile,0.95
+Paraguay - Fixed,0.091
+Paraguay - Mobile,0.149
+Peru - Fixed,0.029
+Peru - Mobile,0.259
+Philippines - Manila Landlines,0.109
+Philippines - Other Landlines,0.109
+Philippines - Other Landlines,0.109
+Philippines - Other Mobiles,0.159
+Philippines - Globe Mobile,0.159
+Poland - All Landlines,0.01
+Poland - P4-Mobile,0.133
+Poland - Other Mobiles,0.149
+Portugal - All Landlines,0.019
+Portugal - All Mobiles,0.219
+Portugal - Special services,0.4
+Puerto Rico - Fixed,0.018
+Puerto Rico - Mobile,0.039
+Qatar - Fixed,0.149
+Qatar - Mobile,0.149
+Romania - Bucharest,0.059
+Romania - All other landline,0.089
+Romania - All mobile,0.239
+"Russia - Moscow, Saint Petersburg",0.019
+Russia - All other landlines,0.079
+Russia - All mobile,0.159
+Rwanda - Fixed,0.2961
+Rwanda - Mobile,0.379
+Reunion - Fixed,0.169
+Reunion - Mobile,0.349
+Saint Helena - Fixed,1.49
+Saint Helena - Mobile,1.49
+Saint Kitts and Nevis - All Landlines,0.249
+Saint Kitts and Nevis - Digicell,0.249
+Saint Kitts and Nevis - Other Mobiles,0.249
+Saint Pierre and Miquelon - Fixed,0.199
+Saint Pierre and Miquelon - Mobile,0.239
+Saint Vincent and the Grenadines - Fixed,0.219
+Saint Vincent and the Grenadines - Mobile,0.219
+Samoa - Fixed,0.8
+Samoa - Mobile,0.8
+San Marino - All Landlines,0.029
+San Marino - All Mobiles,0.039
+San Marino - Conf svc,0.79
+Sao Tome and Principe - Mobile,1.023
+Sao Tome and Principe - Fixed,1.19
+"Saudi Arabia - Riyadh, Kharj, Makkah, Jeddah",0.099
+Saudi Arabia - Other Landlines,0.099
+"Saudi Arabia - Dammam, Khobar, Dahran",0.099
+Saudi Arabia - Mobiles,0.149
+Senegal - Mobile Tigo,0.449
+Senegal - Fixed,0.499
+Senegal - Mobile,0.499
+Serbia - Fixed,0.129
+Serbia - Telenor Mobile,0.329
+Serbia - Other Mobiles,0.329
+Seychelles - Fixed,0.67
+Seychelles - Mobile,0.696
+Sierra Leone - Freetown,0.399
+Sierra Leone - Other Landlines,0.399
+Sierra Leone - Mobiles,0.399
+Singapore - Fixed,0.05
+Singapore - Mobile,0.05
+Sint Marteen - Fixed,0.29
+Sint Marteen - Mobile,0.29
+Slovakia - Fixed,0.039
+Slovakia - Mobile,0.199
+Slovenia - Fixed,0.18
+"Slovenia - Shared numbers,Freephone, Personal numbers, Special Services",0.18
+Slovenia - Mobile,0.4
+Solomon Islands - Fixed,1.19
+Solomon Islands - Mobile,1.19
+Somalia - Mobile,0.339
+Somalia - Fixed,0.5082
+South Africa - Fixed,0.14
+South Africa - Mobile,0.219
+Spain - All Landlines,0.02
+Spain - Other Mobiles,0.04
+Spain - Yoigo,0.339
+Spain - Premium Numbers,0.339
+Sri Lanka - Fixed,0.17
+Sri Lanka - Mobile,0.17
+Sudan - Fixed,0.179
+Sudan - Mobile,0.18
+Suriname - Fixed,0.19
+Suriname - Mobile,0.29
+Swaziland - Fixed,0.189
+Swaziland - Mobile,0.239
+Sweden - Fixed,0.019
+Sweden - Mobile,0.139
+Switzerland - All Landlines,0.025
+Switzerland - All Mobiles,0.29
+Switzerland - Paging,0.69
+Syria - Fixed,0.25
+Syria - Mobile,0.35
+Saint Lucia - Fixed,0.165
+Saint Lucia - Mobile,0.229
+South Sudan - Fixed,0.3
+South Sudan - Mobile,0.3
+Taiwan - Fixed,0.019
+Taiwan - Mobile,0.092
+Tajikistan - Fixed,0.125
+Tajikistan - Mobile,0.134
+Tanzania - Landlines,0.299
+Tanzania - Mobiles,0.299
+Tanzania - Other Mobiles,0.299
+Thailand - Fixed,0.07
+Thailand - Mobile,0.07
+Timor-Leste - Fixed,1.2
+Timor-Leste - Mobile,1.2
+Togo - Moov,0.3
+Togo - Fixed,0.39
+Togo - Mobiles,0.39
+Tokelau - Fixed,1.19
+Tokelau - Mobile,1.19
+Tonga - Fixed,0.8
+Tonga - Mobile,0.8
+Trinidad and Tobago - Fixed,0.1657
+Trinidad and Tobago - Mobile,0.249
+Tunisia - Fixed,0.65
+Tunisia - Mobile,0.65
+"Turkey - Istanbul, Bursa, Izmir, Antalya, Mulga, Ankara, Samsun, Diyarbakir, Erzurum",0.039
+Turkey - All other landline,0.039
+Turkey - Turkish Republic of Northern Cyprus,0.039
+Turkey - All Mobiles excluding North Cypress,0.149
+"Turkey - North Cyprus Turkcell Mobile, North Cyprus Vodafone Mobile",0.159
+Turkmenistan - Fixed,0.129
+Turkmenistan - Mobile,0.129
+Turks & Caicos - Fixed,0.249
+Turks & Caicos - Mobile,0.249
+Tuvalu - Fixed,0.569
+Tuvalu - Mobile,0.579
+Uganda - Fixed,0.289
+Uganda - Mobile,0.29
+Ukraine - Fixed,0.119
+Ukraine - Mobile,0.199
+UAE - Fixed,0.189
+UAE - Mobile,0.189
+United Kingdom - All Country,0.02
+United Kingdom - All other Mobiles,0.02
+"United Kingdom - 3 UK, O2",0.169
+United Kingdom - Paging Numbers,0.219
+United Kingdom - Premium Numbers,0.49
+United Kingdom - Special/toll-free Numbers,0.49
+United Kingdom - Personal Numbers,0.89
+United States - Fixed,0.015
+United States - Mobile,0.015
+United States - Fixed Alaska,0.019
+United States - Fixed Hawaii,0.02
+United States - Mobile Alaska,0.199
+Uruguay - Fixed,0.089
+Uruguay - Mobile,0.229
+Uzbekistan - Fixed,0.1
+Uzbekistan - Mobile,0.105
+US Virgin Islands - Fixed,0.018
+US Virgin Islands - Mobile,0.0279
+Vanuatu - Fixed,0.99
+Vanuatu - Mobile,0.99
+Venezuela - Fixed Gran Caracas ,0.037
+Venezuela - Fixed,0.045
+Venezuela - Mobile,0.199
+Vietnam - Landlines in Hanoi and Ho Chi Minh City,0.069
+Vietnam - Other Landlines,0.069
+Vietnam - Mobiles,0.069
+Vatican - Fixed,0.019
+Vatican - Mobile,0.199
+Wallis and Futuna - Fixed,0.729
+Wallis and Futuna - Mobile,0.791
+Yemen - Fixed,0.189
+Yemen - Mobile,0.189
+Zambia - Fixed,0.39
+Zambia - Mobile,0.48
+Zimbabwe - Fixed,0.199
+Zimbabwe - Mobile,0.499

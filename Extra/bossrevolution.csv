@@ -1,0 +1,508 @@
+COUNTRIES,Rate/min
+Afghanistan,0.25
+Afghanistan Cellular,0.117
+Albania,0.15
+Albania Cellular,0.333
+Albania-Tirana,0.161
+Algeria,0.083
+Algeria Cellular,0.455
+American Samoa,0.015
+Andorra,0.178
+Angola,0.1
+Angola Cellular,0.125
+Angola Cellular-Movicel,0.25
+Angola Cellular-Unitel,0.295
+Anguilla,0.2
+Anguilla Cellular,0.227
+Antarctica,1
+Norfolk Island,0.263
+Antigua,0.175
+Antigua Cellular,0.227
+Argentina,0.015
+Argentina Cellular,0.163
+"Argentina,Buenos Aires",0.01
+Armenia,0.185
+Armenia Cellular,0.225
+"Armenia,Yerevan",0.185
+Aruba,0.1
+Aruba Cellular,0.227
+Ascension Island,0.555
+Australia,0.02
+Australia Cellular,0.05
+Austria,0.02
+Austria Cellular,0.04
+Azerbaijan,0.25
+Azerbaijan Cellular,0.333
+Bahamas,0.107
+Bahamas Cellular,0.157
+Bahrain,0.105
+Bahrain Cellular,0.13
+Bangladesh,0.032
+Bangladesh Cellular,0.032
+"Bangladesh,Dhaka",0.032
+Barbados,0.15
+Barbados Cellular,0.238
+Belarus,0.455
+Belarus Cellular,0.33
+Belgium,0.025
+Belgium Cellular,0.139
+Belgium Cellular Premium,0.417
+Belize,0.25
+Belize Cellular,0.25
+Benin,0.334
+Bermuda,0.04
+Bhutan,0.125
+Bolivia,0.106
+Bolivia Cellular,0.166
+"Bolivia,Cochabamba",0.12
+"Bolivia,La Paz",0.098
+"Bolivia,Rural",0.217
+"Bolivia,Santa Cruz",0.1
+Bosnia and Herzegovina,0.166
+Bosnia and Herzegovina Cellular,0.357
+Botswana,0.1
+Botswana Cellular,0.227
+Brazil,0.025
+Brazil Cellular-Debit,0.025
+Brazil Major Cities,0.013
+"Brazil,Governado Valeres",0.013
+"Brazil,Rio de Janeiro",0.013
+"Brazil,Sao Paulo",0.013
+British Virgin Islands,0.227
+Brunei,0.04
+Bulgaria,0.25
+Bulgaria Cellular,0.385
+Burkina Faso,0.25
+Burkina Faso Cellular,0.333
+Burkina Faso Cellular-Moov,0.346
+Burundi,0.7
+Cambodia,0.073
+Cambodia Cellular,0.065
+Cameroon,0.111
+Cameroon Cellular-MTN,0.278
+Cameroon Cellular-Nexxtel,0.312
+Cameroon Cellular-Orange,0.385
+Canada,0.016
+"Canada,Yukon",0.056
+Cape Verde Islands,0.18
+Cape Verde Islands Cellular,0.277
+Cayman Islands,0.12
+Cayman Islands Cellular,0.172
+Central African Republic,0.834
+Chad,0.555
+Chile,0.02
+Chile Cellular,0.047
+Chile Cellular-Claro,0.04
+China,0.01
+Colombia,0.025
+Colombia Cellular,0.025
+Colombia Cellular-Claro,0.025
+Colombia Cellular-Movistar,0.025
+Colombia Cellular-Tigo,0.025
+"Colombia,Barranquilla",0.025
+"Colombia,Bogota",0.025
+"Colombia,Cali",0.025
+"Colombia,Medellin",0.025
+Comoros,0.5
+Comoros-Mayotte,0.084
+Congo,0.417
+Cook Islands,1
+Costa Rica,0.04
+Costa Rica Cellular,0.061
+Croatia,0.08
+Croatia Cellular,0.142
+Cuba,0.833
+Cyprus,0.015
+Cyprus Cellular,0.05
+Czech Republic,0.025
+Czech Republic Cellular,0.077
+Dem Rep Congo (Zaire),0.2
+Democratic Republic of Congo Cellular-Africel,0.417
+Democratic Republic of Congo Cellular-Airtel,0.358
+Democratic Republic of Congo Cellular-Orange,0.29
+Democratic Republic of Congo Cellular-Vodacom,0.385
+Denmark,0.016
+Denmark Cellular,0.05
+Diego Garcia,0.891
+Djibouti,0.35
+Dominica,0.179
+Dominica Cellular,0.227
+Dominican Republic,0.036
+Dominican Republic Cellular,0.105
+East Timor,1
+Ecuador,0.117
+Ecuador Cellular,0.222
+Ecuador Cellular-Allegro,0.192
+Ecuador Cellular-Porta,0.222
+"Ecuador,Cuenca",0.125
+Egypt,0.097
+Egypt Cellular,0.121
+Egypt Cellular-Etisalat,0.135
+Egypt Cellular-Mobinil,0.132
+Egypt Cellular-Vodafone,0.116
+El Salvador,0.1
+El Salvador Cellular,0.185
+El Salvador Cellular -Personal,0.15
+El Salvador Cellular-Digicel,0.15
+El Salvador Cellular-Telefonica,0.18
+El Salvador Cellular-Tigo,0.18
+El Salvador- Telefonica,0.18
+El Salvador-Personal,0.15
+El Salvador-Tigo,0.18
+Equatorial Guinea,0.414
+Eritrea,0.275
+Estonia,0.025
+Estonia Cellular,0.333
+Ethiopia,0.2
+Ethiopia Cellular,0.147
+"Ethiopia,Addis Ababa",0.2
+Falkland Islands,0.4
+Faeroe Islands,0.7
+Fiji Islands,0.25
+Finland,0.055
+Finland Cellular,0.04
+France,0.02
+France Cellular,0.066
+French Guiana,0.04
+French Guiana-Cellular,0.061
+French Polynesia,0.3
+Gabon Republic,0.454
+Gambia,0.6
+Gambia Cellular,0.687
+Georgia,0.179
+Georgia Cellular,0.278
+Germany,0.02
+Germany Cellular,0.03
+Ghana,0.178
+Ghana Cellular,0.166
+Ghana Cellular-Airtel,0.222
+Ghana Cellular-Expresso,0.2
+Ghana Cellular-Glomobile,0.193
+Ghana Cellular-Other,0.222
+Ghana Cellular-Vodafone,0.222
+Gibraltar,0.04
+Gibraltar Cellular,0.208
+Greece,0.02
+Greece Cellular,0.071
+Greenland,0.555
+Grenada,0.2
+Grenada Cellular,0.238
+Guadeloupe,0.025
+Guadeloupe Cellular,0.06
+Guam,0.015
+Guatemala,0.083
+Guatemala Cellular,0.155
+Guatemala Cellular-Claro,0.125
+Guatemala Cellular-Movistar,0.142
+Guatemala Cellular-Tigo,0.149
+"Guatemala,Rural",0.1
+Guatemala-Tigo,0.149
+Guinea,0.25
+"Guinea,Cellular",0.384
+Guinea Bissau,0.454
+Guyana,0.227
+Guyana Cellular,0.263
+Guyana Cellular-Digicel,0.102
+Haiti,0.2
+Haiti Cellular,0.285
+Haiti Cellular-Nat,0.285
+Honduras,0.125
+Honduras Cellular,0.15
+Honduras Cellular-Ctel,0.179
+Hong Kong,0.01
+Hong Kong Cellular,0.021
+Hungary,0.025
+Hungary Cellular,0.09
+Iceland,0.033
+Iceland Cellular,0.04
+India,0.01
+India Cellular,0.01
+Indonesia,0.04
+Indonesia Cellular,0.04
+"Indonesia,Jakarta",0.025
+Iran,0.166
+Iran Cellular,0.147
+"Iran,Tehran",0.133
+Iraq,0.016
+Iraq Cellular,0.208
+"Iraq,Baghdad",0.136
+Ireland,0.015
+Ireland Cellular,0.09
+Israel,0.017
+Israel Cellular,0.037
+Israeli Territories,0.18
+Israeli Territories Cellular,0.18
+Italy,0.02
+Italy Cellular,0.03
+Ivory Coast,0.25
+Ivory Coast Cellular,0.345
+Jamaica,0.2
+Jamaica Cellular,0.2
+Japan,0.03
+Japan Cellular,0.066
+Jordan,0.165
+Jordan Cellular,0.194
+Jordan Cellular-Zain,0.194
+Kazakhstan,0.033
+Kazakhstan Cellular,0.151
+Kenya,0.113
+Kenya Cellular,0.076
+Kenya Cellular-Airtel,0.151
+Kenya Cellular-Orange,0.169
+Kenya Cellular-Safaricom,0.098
+Kiribati,0.86
+Kuwait,0.085
+Kuwait Cellular,0.083
+Kyrgyzstan,0.19
+Latvia,0.147
+Latvia Cellular,0.334
+Lebanon,0.09
+Lebanon Cellular,0.166
+Lesotho,0.295
+Liberia,0.333
+Libya,0.294
+Liechtenstein,0.128
+Lithuania,0.155
+Lithuania Cellular,0.37
+Luxembourg,0.193
+Luxembourg Cellular,0.193
+Macau,0.052
+Macedonia,0.173
+Macedonia Cellular,0.333
+Madagascar,0.625
+Madagascar Cellular,0.625
+Malawi,0.416
+Malawi Cellular,0.416
+Malaysia,0.015
+Malaysia Cellular,0.024
+Maldives,1
+Mali,0.238
+Mali Cellular,0.385
+"Mali,Bamako",0.238
+Malta,0.033
+Malta Cellular,0.055
+Marshall Islands,0.296
+Mauritania,0.5
+Mauritius,0.076
+Mexico,0.023
+Mexico Cellular,0.023
+Mexico Major Cities,0.023
+"Mexico,Guadalajara",0.023
+"Mexico,Mexico City",0.023
+"Mexico,Monterrey",0.023
+"Mexico,Puebla",0.023
+Micronesia,1
+Moldova,0.125
+Moldova Cellular,0.2
+Monaco,0.07
+Monaco Cellular,0.312
+Monaco Cellular-Kosovo,0.556
+Mongolia,0.04
+Montenegro,0.166
+Montenegro Cellular,0.334
+Montserrat,0.25
+Morocco,0.033
+Morocco Cellular,0.455
+Mozambique,0.112
+Mozambique Cellular,0.21
+Myanmar (Burma),0.065
+Namibia,0.08
+"Namibia,Cellular",0.111
+Nauru,1.5
+Nepal,0.133
+"Nepal,Kathmandu",0.133
+Netherlands,0.033
+Netherlands Cellular,0.05
+Netherlands Antilles,0.039
+Netherlands Antilles Cellular,0.114
+New Caledonia,0.225
+New Zealand,0.02
+New Zealand Cellular,0.055
+Nicaragua,0.142
+Nicaragua Cellular,0.256
+Nicaragua Cellular-Claro,0.256
+Nicaragua Cellular-Telefonica,0.256
+Niger,0.228
+Niger Cellular,0.312
+Nigeria,0.066
+Nigeria Cellular,0.079
+Nigeria Cellular-Airtel,0.096
+Nigeria Cellular-Globacom,0.096
+Nigeria Cellular-MTN,0.078
+"Nigeria,Lagos",0.066
+Niue,0.593
+No. Mariana Islands,0.015
+North Korea,0.407
+Norway,0.025
+Norway Cellular,0.05
+Oman,0.277
+Pakistan,0.045
+Pakistan Cellular,0.045
+Pakistan Cellular-Mobilink,0.045
+Pakistan Cellular-Telenor,0.04
+Pakistan Cellular-Ufone,0.045
+Pakistan Cellular-Warid,0.046
+Pakistan Cellular-Zong,0.045
+Palau,0.33
+Israeli Territories-PA,0.2
+Panama,0.025
+Panama Cellular,0.115
+"Panama,Panama City",0.025
+Papua New Guinea,1.061
+Paraguay,0.04
+Paraguay Cellular,0.077
+"Paraguay,Asuncion",0.04
+Peru,0.015
+Peru Cellular,0.04
+Peru Cellular-Claro,0.033
+Peru Cellular-Movistar,0.033
+Peru Cellular-Nextel,0.05
+"Peru,Lima",0.01
+"Peru,Rural",0.333
+Philippines,0.096
+Philippines Cellular,0.151
+Philippines Cellular-Globe,0.125
+Philippines Cellular-Smart,0.135
+Poland,0.01
+Poland Cellular,0.1
+Portugal,0.02
+Portugal Cellular,0.083
+Puerto Rico,0.015
+Qatar,0.2
+Qatar Cellular,0.2
+Reunion Island,0.107
+Romania,0.025
+Romania Cellular,0.035
+"Romania,Bucharest",0.025
+Russia,0.046
+Russia Cellular,0.066
+Russia Cellular-BeeLine,0.238
+"Russia,Moscow",0.017
+"Russia,St. Petersburg",0.012
+Rwanda,0.312
+St. Martin,0.111
+San Marino,0.034
+Sao Tome,1
+Saudi Arabia,0.09
+Saudi Arabia Cellular,0.12
+Senegal,0.225
+Senegal Cellular,0.312
+Senegal Cellular Tigo,0.25
+Senegal Cellular-Orange,0.2
+Kosovo,0.086
+Serbia,0.166
+Serbia Cellular,0.357
+"Serbia,Belgrade",0.166
+Seychelles Islands,0.7
+Sierra Leone,0.3
+Sierra Leone Cellular,0.417
+Sierra Leone Cellular-Africell,0.5
+Sierra Leone Cellular-Airtel,0.385
+Singapore,0.017
+Slovakia,0.027
+Slovakia Cellular,0.111
+Slovenia,0.162
+Slovenia Cellular,0.225
+Solomon Islands,5
+Somalia,0.385
+"Somalia,Hormuud",0.264
+South Africa,0.056
+South Africa Cellular,0.04
+South Africa Cellular-MTN,0.067
+South Korea,0.02
+South Korea Cellular,0.04
+South Sudan,0.313
+Spain,0.02
+Spain Cellular,0.04
+Sri Lanka,0.144
+Sri Lanka Cellular,0.144
+St. Helena,2.835
+St. Kitts,0.179
+St. Kitts Cellular,0.238
+St. Lucia,0.175
+St. Lucia Cellular,0.238
+St. Pierre & Miquelon,0.166
+St. Vincent,0.147
+St. Vincent Cellular,0.25
+Sudan,0.147
+Sudan Cellular,0.155
+Sudan Cellular-Kanartel,0.155
+Sudan Cellular-MTN,0.155
+Sudan Cellular-Sudatel,0.155
+Sudan Cellular-Zain,0.136
+Suriname,0.185
+Suriname Cellular,0.167
+Suriname Cellular-Digicel,0.294
+Swaziland,0.206
+Sweden,0.02
+Sweden Cellular,0.03
+Switzerland,0.02
+Switzerland Cellular,0.133
+Syria,0.122
+Syria Cellular,0.295
+Taiwan,0.02
+Taiwan Cellular,0.1
+Tajikistan,0.125
+Tanzania,0.312
+Tanzania Cellular,0.357
+Thailand,0.035
+Thailand Cellular,0.035
+Togo,0.357
+Togo Cellular,0.215
+Togo Cellular-Moov,0.333
+Tokelau,2.5
+Tonga Islands,1.061
+Trinidad,0.125
+Trinidad Cellular,0.2
+Tunisia,0.6
+Tunisia Cellular,0.6
+Turkey,0.038
+Turkey Cellular,0.166
+Turkey Cellular-Northern Cyprus,0.146
+"Turkey,Istanbul",0.035
+Turkmenistan,0.143
+Turks & Caicos Islands,0.111
+Turks & Caicos Islands Cellular,0.217
+Tuvalu,0.395
+Uganda,0.26
+Uganda Cellular,0.295
+Ukraine,0.125
+Ukraine Cellular,0.166
+United Arab Emirates,0.166
+United Kingdom,0.015
+United Kingdom Cellular,0.05
+United Kingdom Cellular-Premium,0.25
+Uruguay,0.066
+Uruguay Cellular,0.166
+"Uruguay,Montevideo",0.055
+USA Toll Free,0.017
+USA.,0.015
+Uzbekistan,0.082
+"Uzbekistan,Tashkent",0.109
+Vanuatu Republic,1.061
+Venezuela,0.018
+Venezuela Cellular,0.08
+Venezuela Cellular-Digitel,0.088
+Venezuela Cellular-Movilnet,0.075
+Venezuela Cellular-Movistar,0.09
+"Venezuela,Caracas",0.018
+Vietnam,0.066
+Vietnam Cellular,0.076
+"Vietnam,Hanoi",0.066
+"Vietnam,Ho Chi Minh",0.066
+US Virgin Islands,0.015
+Wallis & Futuna Islands,0.037
+Western Samoa,1.061
+Yemen,0.142
+Yemen Cellular,0.142
+Yemen Cellular-HITS,0.125
+Yemen Cellular-MTN,0.142
+Yemen Cellular-Sabafone,0.142
+Yemen Cellular-Yementel,0.142
+Zambia,0.385
+Zambia Cellular-Airtel,0.465
+Zambia Cellular-MTN,0.475
+Zambia Cellular-Zamtel,0.385
+"Zambia,Cellular",0.178
+Zimbabwe,0.092
+Zimbabwe Cellular,0.46
