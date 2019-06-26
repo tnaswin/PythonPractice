@@ -1,3 +1,0 @@
-Create a class named Call containing instances to store number and otp.
-Create a class for the web page.
-    Simulate a POST method and pass the value to the Call class.
